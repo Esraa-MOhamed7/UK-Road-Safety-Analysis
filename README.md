@@ -5,8 +5,9 @@ This project analyzes the UK road safety dataset to explore trends in vehicle in
 ## 📊 Charts Included
 
 1. What are the locations with the highest number of casualties and vehicles involved?
-2. Top and Bottom 3 Vehicle Types by Number of Casualties
-3. Severity across top 7 local authorities
+   ![bar plot](https://github.com/Esraa-MOhamed7/UK-Road-Safety-Analysis/blob/main/What%20are%20the%20locations%20with%20the%20highest%20number%20of%20casualties%20and%20vehicles%20involved.png)
+3. Top and Bottom 3 Vehicle Types by Number of Casualties
+4. Severity across top 7 local authorities
 
 ## 🔧 Tools Used
 
